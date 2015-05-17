@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.giant2015773044" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>giant2015</name>
+<widget id="com.hongfei.giant2015773044" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Hangman-geo</name>
   <description>
-        An Ionic Framework and Cordova project.
+        An Hangman game for Geo.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="hongfei@gmail.com" href="http://umich.edu/~feih">
+      Fei Hong
     </author>
   <content src="index.html"/>
   <access origin="*"/>
